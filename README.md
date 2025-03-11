@@ -26,7 +26,7 @@ Isso iniciará o servidor de desenvolvimento e você poderá acessar o aplicativ
 
 http://localhost:5173/
 
-#Scripts Disponíveis
+# Scripts Disponíveis
 No projeto, você pode executar os seguintes scripts:
 
 npm run dev: Inicia o servidor de desenvolvimento.
@@ -37,7 +37,7 @@ npm run preview: Serve a versão de produção localmente para teste.
 
 npm run lint: Executa o ESLint para verificar erros no código.
 
-#Contribuição
+# Contribuição
 Se você quiser contribuir para este projeto, siga os passos abaixo:
 
 Faça um fork do repositório.
