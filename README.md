@@ -1,4 +1,4 @@
-#Meu projeto React usando Vite
+# Meu projeto React usando Vite
 Este é um projeto simples criado com React e Vite. O objetivo deste projeto é demonstrar como configurar um ambiente de desenvolvimento React usando Vite e criar um componente básico com um contador interativo.
 #Pré Requisitos
 Antes de começar, certifique-se de que você tem o seguinte instalado na sua máquina:
